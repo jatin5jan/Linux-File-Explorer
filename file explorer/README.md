@@ -1,1 +1,1 @@
-FileHunt : Linux based file explorer
+Linux file explorer
